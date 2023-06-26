@@ -1,0 +1,32 @@
+[
+    {
+        "title":"News App - News Dekho",
+        "stack":"HTML, CSS, JavaScript, ReactJs, Bootstrap.",
+        "desc":"As a React JS developer, I built a news web application that displays the latest news category-wise by fetching data from the News API.",
+        "link":"https://github.com/PradeepRajpurohit/News-WebApp---NewsDekho"
+    },
+    {
+        "title":"Disney+ clone",
+        "stack":"HTML, CSS, JavaScript, ReactJs, Styled Componenets, Redux, Firebse.",
+        "desc":"This clone replicates the beloved Disney+ streaming platform, offering a visually appealing user interface, seamless content streaming, and secure authentication through Firebase.",
+        "link":"https://github.com/PradeepRajpurohit/Disney-clone"
+    },
+    {
+        "title":"QR Ticket Booking App",
+        "stack":"HTML, CSS, JavaScript, ReactJs, Tailwind CSS, ExpressJs, MongoDB, NodeJs.",
+        "desc":"The QR ticket booking app is a user-friendly platform that allows users to login, make secure payments, and generate QR codes for ticket metro tickets for Red line stations.",
+        "link":"https://github.com/PradeepRajpurohit/metro-e-ticket-frontend"
+    },
+    {
+        "title":"Text Editor",
+        "stack":"HTML, CSS, JavaScript, ReactJs, Bootstrap.",
+        "desc":"In text Editor you can remove extra spaces, count word, character and spaces, convert to lowercase and uppercase, clear text and etc.",
+        "link":"https://github.com/PradeepRajpurohit/Text-player"
+    },
+    {
+        "title":"Weather website",
+        "stack":"HTML, CSS, JavaScript, Bootstrap.",
+        "desc":"This website show the weather details of different cities, it fetch the details from an API. It show the data dynamically as we enter the city.",
+        "link":"https://github.com/PradeepRajpurohit/News-WebApp---NewsDekho"
+    }
+]
